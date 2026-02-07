@@ -13,9 +13,9 @@ It uses **FFmpeg two-pass encoding** to compress videos toward a target size (e.
 > Developed by the **BGGG background gremlin group** 🟩
 
 
-![Shrink demo screenshot](assets/demo.png)
+![Shrink demo screenshot](https://github.com/BGGremlin-Group/Shrink/main/assets/shrink-ui.png)
 
-[![Watch demo](assets/demo.png)](assets/demo.mp4)
+[![Watch demo]([a](/assets/shrink-ui.png)](assets/demo.mp4)
 ---
 
 ## Features
