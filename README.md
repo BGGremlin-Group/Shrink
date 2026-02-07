@@ -15,7 +15,7 @@ It uses **FFmpeg two-pass encoding** to compress videos toward a target size (e.
 
 ![Shrink demo screenshot](https://github.com/BGGremlin-Group/Shrink/blob/main/assets/shrink-ui.png)
 
-[![Watch demo]((https://github.com/BGGremlin-Group/Shrink/blob/main/assets/shrink-ui.png)](assets/demo.mp4)
+[▶ Watch demo video](assets/demo.mp4)
 ---
 
 ## Features
