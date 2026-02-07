@@ -13,17 +13,16 @@ It uses **FFmpeg two-pass encoding** to compress videos toward a target size (e.
 > Developed by the **BGGG background gremlin group** 🟩
 
 
-![Shrink demo screenshot](https://github.com/BGGremlin-Group/Shrink/main/assets/shrink-ui.png)
+![Shrink demo screenshot](https://github.com/BGGremlin-Group/Shrink/blob/main/assets/shrink-ui.png)
 
-[![Watch demo]([a](/assets/shrink-ui.png)](assets/demo.mp4)
+[![Watch demo]((https://github.com/BGGremlin-Group/Shrink/blob/main/assets/shrink-ui.png)](assets/demo.mp4)
 ---
 
 ## Features
 
 - ✅ Interactive **menu UI** (no CLI flags/arguments)
 - ✅ Pick a video from storage (MP4/MOV/MKV/WEBM/AVI/3GP/M4V)
-- ✅ Choose target size in **MB**
-- ✅ Optional **audio bitrate** selection (48/64/96/128 kbps)
+- ✅ Choose target size in **al **audio bitrate** selection (48/64/96/128 kbps)
 - ✅ Optional **downscale** (720p / 480p / 360p)
 - ✅ Uses **two-pass H.264 (libx264)** for better size accuracy
 - ✅ Writes output to a chosen folder with an auto filename
