@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Android%20%2B%20Termux-brightgreen)](https://termux.dev/)
 [![FFmpeg](https://img.shields.io/badge/ffmpeg-required-brightgreen)](https://ffmpeg.org/)
-[![License](https://img.shields.io/github/license/BGGremlin-Group/Shrink?color=brightgreen)](https://github.com/BGGremlin-Group/Shrink/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/BGGremlin-Group/Shrink?color=brightgreen)](https://github.com/BGGremlin-Group/Shrink/main/LICENSE.md)
 [![Stars](https://img.shields.io/github/stars/BGGremlin-Group/Shrink?style=flat&color=brightgreen)](https://github.com/BGGremlin-Group/Shrink/stargazers)
 [![Issues](https://img.shields.io/github/issues/BGGremlin-Group/Shrink?color=brightgreen)](https://github.com/BGGremlin-Group/Shrink/issues)
 
