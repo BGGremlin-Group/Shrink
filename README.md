@@ -10,8 +10,12 @@
 **Shrink** is a **no-root**, **no-arguments** video size reducer for **Termux on Android**.  
 It uses **FFmpeg two-pass encoding** to compress videos toward a target size (e.g., `16MB → 9MB`) with a simple interactive menu.
 
-> Dev credits: **BGGG background gremlin group** 🟩
+> Developed by the **BGGG background gremlin group** 🟩
 
+
+![Shrink demo screenshot](assets/demo.png)
+
+[![Watch demo](assets/demo.png)](assets/demo.mp4)
 ---
 
 ## Features
